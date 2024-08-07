@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Practice Growth Specialist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 2rem;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Medical Practice Growth Specialist</h1>
+        <p>Empowering Doctors to Grow Their Practice</p>
+    </header>
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <div id="services" class="section">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Marketing Plans</li>
+                <li>Sales Strategies</li>
+                <li>Inventory Management</li>
+                <li>Peptide Usage Guidance</li>
+                <li>Patient Education</li>
+                <li>Exosome Information and Usage</li>
+                <li>Laser IV Treatments</li>
+                <li>Hyperbaric Oxygen Therapy (HBOT) Coordination</li>
+                <li>Bioidentical Hormone Replacement Therapy (BHRT)</li>
+                <li>Glutathione Vape Pens</li>
+                <li>Vendor Relations and Business Development</li>
+            </ul>
+        </div>
+        <div id="about" class="section">
+            <h2>About Us</h2>
+            <p>We specialize in helping doctors grow their medical practice through a comprehensive range of services. From marketing strategies and inventory management to patient education and cutting-edge treatments, we provide everything needed to enhance and expand your practice.</p>
+        </div>
+        <div id="contact" class="section">
+            <h2>Contact Us</h2>
+            <p>For more information or to schedule a consultation, please contact us at:</p>
+            <p>Email: <a href="mailto:info@medicalgrowthspecialist.com">info@medicalgrowthspecialist.com</a></p>
+            <p>Phone: (123) 456-7890</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Medical Practice Growth Specialist. All rights reserved.</p>
+    </footer>
+</body>
+</html>
